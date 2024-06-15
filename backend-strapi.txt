@@ -1,0 +1,8 @@
+1 cambiar la bd temporal a postgres
+2 en archivo database de config se realiza 
+3 crear bd ojo con el usuario que se le pone a la bd y la passwpord por que tambien hay que escribrlas 
+en el archivo de databse 
+
+resetear passwpord
+
+yarn strapi admin:reset-user-password
